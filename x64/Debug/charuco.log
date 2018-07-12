@@ -1,0 +1,4 @@
+﻿  charuco.cpp
+c:\stuff\robots\charuco\charuco.cpp(98): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\stuff\robots\charuco\charuco.cpp(99): warning C4305: 'initializing': truncation from 'double' to 'float'
+  charuco.vcxproj -> C:\stuff\robots\x64\Debug\charuco.exe
